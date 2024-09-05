@@ -1,0 +1,127 @@
+{
+    "socialIcons": [
+        {
+            "href": "https://github.com/aryansoni-git",
+            "src": "/icons/github.svg",
+            "alt": "GitHub Icon"
+        },
+        {
+            "href": "https://www.linkedin.com/in/aryansoni-work/",
+            "src": "/icons/linkedin.svg",
+            "alt": "Linkedin Icon"
+        },
+        {
+            "href": "https://www.instagram.com/nocs_developer/",
+            "src": "/icons/instagram.svg",
+            "alt": "instagram Icon"
+        },
+        {
+            "href": "https://x.com/aryansoni_x",
+            "src": "/icons/twitter.svg",
+            "alt": "Twitter Icon"
+        },
+        {
+            "href": "https://www.facebook.com/aryansoni.official/",
+            "src": "/icons/facebook.svg",
+            "alt": "Facebook Icon"
+        }
+    ],
+    "iconTopRow": [
+        {
+            "src": "/icons/html-5.svg",
+            "alt": "HTML ICON"
+        },
+        {
+            "src": "/icons/css-3.svg",
+            "alt": "CSS Icon"
+        },
+        {
+            "src": "/icons/javascript.svg",
+            "alt": "JavaScript Icon"
+        },
+        {
+            "src": "/icons/pug.svg",
+            "alt": "Pug Icon"
+        }
+    ],
+    "iconBottomRow": [
+        {
+            "src": "/icons/react.svg",
+            "alt": "React Icon"
+        },
+        {
+            "src": "/icons/next-js.svg",
+            "alt": "Next Js Icon"
+        },
+        {
+            "src": "/icons/tailwind.svg",
+            "alt": "Tailwind Icon"
+        },
+        {
+            "src": "/icons/swiper.svg",
+            "alt": "Swiper Icon"
+        },
+        {
+            "src": "/icons/webpack.svg",
+            "alt": "Webpack Icon"
+        }
+    ],
+    "projectData": [
+        {
+            "src": "/projects/sonianime.png",
+            "alt": "Streaming Website (sonianime)",
+            "href": "https://aryansoni-git.github.io/soni-anime/",
+            "isReact": true,
+            "description": "A modern anime site, Features 100% responsive design, seamless navigation, and interactive elements, enhancing the browsing and downloading experience across all devices for anime enthusiasts."
+        },
+        {
+            "src": "/projects/avnisoni.png",
+            "alt": "Portfolio Website (Avni Soni)",
+            "href": "https://github.com/aryansoni-git/avni-portfolio/",
+            "isReact": true,
+            "description": "A visually striking portfolio for a graphic designer, crafted to highlight creativity and skill. It features seamless navigation and a gallery of diverse projects, creating an impactful presentation for potential clients."
+        },
+        {
+            "src": "/projects/aryansoni.png",
+            "alt": "Portfolio Website (Aryan Soni)",
+            "href": "https://github.com/aryansoni-git/aryansoni-portfolio/",
+            "isReact": true,
+            "description": "A personal portfolio showcasing development skills and projects in a clean, engaging layout. Designed to make a strong impression with easy navigation and thoughtfully presented work, reflecting both creativity and professionalism."
+        },
+        {
+            "src": "/projects/weather.png",
+            "alt": "Web App (Weather)",
+            "href": "https://aryansoni-git.github.io/weather-app/",
+            "isReact": true,
+            "description": "A modern, responsive weather app built with Next.js 14 and Tailwind CSS. It fetches real-time weather data from the OpenWeatherMap API, showing temperature, humidity, wind speed, and dynamic icons for any city worldwide."
+        },
+        {
+            "src": "/projects/calculator.png",
+            "alt": "Web App (Calculator)",
+            "href": "https://aryansoni-git.github.io/calculator-app/",
+            "isReact": false,
+            "description": "A simple, user-friendly calculator, featuring basic arithmetic operations, percentage calculations, and real-time input history. Part of The Odin Project’s curriculum, it supports both mouse and keyboard input."
+        },
+        {
+            "src": "/projects/etch-a-sketch.png",
+            "alt": "Web App (Etch-a-Sketch)",
+            "href": "https://aryansoni-git.github.io/game-etch-a-sketch/",
+            "isReact": true,
+            "description": "A browser-based Etch-A-Sketch clone that allows users to draw on a grid using customizable colors. It brings out creativity with a simple, customizable grid, making sketching easy and enjoyable."
+        },
+        {
+            "src": "/projects/tic-tac-toe.png",
+            "alt": "Web App (Tic Tac Toe)",
+            "href": "https://aryansoni-git.github.io/odin-tic-tac-toe/",
+            "isReact": false,
+            "description": "A simple web-based implementation of the classic tic-tac-toe game. It allows two players to take turns placing their markers ('X' or 'O') on a 3x3 grid until one player wins or the game ends in a draw."
+        },
+        {
+            "src": "/projects/library.png",
+            "alt": "Web App (Library)",
+            "href": "https://aryansoni-git.github.io/book-library/",
+            "isReact": false,
+            "description": "A digital library management tool where users can add, manage, and remove books. it simplifies personal library organization with a clean interface and basic CRUD functionality."
+        }
+    ]
+}
