@@ -48,15 +48,15 @@ export default function Footer({ footerRef }) {
         <footer
             id="footer"
             ref={footerRef}
-            className={`h-screen flex flex-col justify-center items-center px-responsive-padding-x md:px-0 md:col-start-2 lg:pr-responsive-padding-y`}
+            className={`h-screen flex flex-col justify-center items-center px-responsive-padding-x md:px-5 md:col-start-2 lg:pr-responsive-padding-y lg:pl-0 lg:pt-5`}
         >
             <div className={`group grid gap-5 bg-custom-card px-responsive-padding-x py-responsive-padding-y border-black-border border-[0.5px] rounded-lg md:px-10 md:py-8`}>
                 <h2 className="font-bold text-4xl order-1">Hey there!</h2>
                 <Message />
                 <Icons />
-                <div className="bg-black border-black-border border-[0.5px] flex justify-center items-center rounded-lg lg:flex-grow">
+                <div className="bg-black flex justify-center items-center rounded-lg lg:flex-grow">
                     <Image
-                        src={`/images/my-Avatar.png`}
+                        src={`/images/my-Avatar.jpg`}
                         alt={`aryan soni`}
                         height={1000}
                         width={1000}

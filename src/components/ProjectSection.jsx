@@ -14,7 +14,7 @@ function ProjectCard({ data }) {
         : [`HTML`, `CSS`, `JavaScript`];
 
     return (
-        <div className={`group flex flex-col justify-center gap-2 bg-custom-card border-black-border border-[0.5px] rounded-lg px-responsive-padding-x py-responsive-padding-y md:px-5 md:py-6 `}>
+        <div className={`flex flex-col justify-center gap-2 bg-custom-card border-black-border border-[0.5px] rounded-lg px-responsive-padding-x py-responsive-padding-y sm:group md:px-5 md:py-6 `}>
             <div>
                 <Image
                     src={data.src}
@@ -23,7 +23,7 @@ function ProjectCard({ data }) {
                     width={500}
                 />
             </div>
-            <h4 className="text-xl font-semibold py-1 group-hover:text-warm-orange">{data.alt}</h4>
+            <h4 className="text-xl font-semibold py-1 sm:group-hover:text-warm-orange">{data.alt}</h4>
             <div className="grid grid-cols-2 grid-rows-2 gap-3 lg:flex">
                 {tags.map((tag, index) => (
                     <Tag
