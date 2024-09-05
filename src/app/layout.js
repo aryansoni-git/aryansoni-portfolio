@@ -1,4 +1,5 @@
-import { SpeedInsights } from '@vercel/speed-insights/next';
+import { Analytics } from "@vercel/analytics/react";
+
 import AnimatedCursor from "react-animated-cursor";
 import TorchEffect from "@/components/TorchEffect";
 import { Inter } from "next/font/google";
@@ -22,7 +23,7 @@ export default function RootLayout({ children }) {
         <AnimatedCursor />
         <TorchEffect />
         {children}
-        <SpeedInsights />
+        <Analytics />
       </body>
     </html>
   );

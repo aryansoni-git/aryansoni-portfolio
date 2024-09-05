@@ -73,7 +73,7 @@ export default function AboutSection() {
 
             <Button
                 text={`Download Resume`}
-                href={`/pdf/aryansoni-resume.pdf`}
+                href={`/aryansoni-resume.pdf`}
                 aria-label="Download Aryan Soni's Resume"
             />
         </section>
