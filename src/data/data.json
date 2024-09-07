@@ -70,21 +70,21 @@
         {
             "src": "/projects/sonianime.png",
             "alt": "Streaming Website (sonianime)",
-            "href": "https://aryansoni-git.github.io/soni-anime/",
+            "href": "https://soni-anime.vercel.app/",
             "isReact": true,
             "description": "A modern anime site, Features 100% responsive design, seamless navigation, and interactive elements, enhancing the browsing and downloading experience across all devices for anime enthusiasts."
         },
         {
             "src": "/projects/avnisoni.png",
             "alt": "Portfolio Website (Avni Soni)",
-            "href": "https://github.com/aryansoni-git/avni-portfolio/",
+            "href": "https://avnisoni.vercel.app/",
             "isReact": true,
             "description": "A visually striking portfolio for a graphic designer, crafted to highlight creativity and skill. It features seamless navigation and a gallery of diverse projects, creating an impactful presentation for potential clients."
         },
         {
             "src": "/projects/aryansoni.png",
             "alt": "Portfolio Website (Aryan Soni)",
-            "href": "https://github.com/aryansoni-git/aryansoni-portfolio/",
+            "href": "https://aryansoni.vercel.app/",
             "isReact": true,
             "description": "A personal portfolio showcasing development skills and projects in a clean, engaging layout. Designed to make a strong impression with easy navigation and thoughtfully presented work, reflecting both creativity and professionalism."
         },
